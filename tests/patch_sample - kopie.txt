@@ -1,0 +1,17 @@
+*** a.txt	2021-01-03 21:04:05.547897800 +0100
+--- b.txt	2021-01-03 21:04:05.563893700 +0100
+***************
+*** 1,4 ****
+  Huis
+! Tuin
+  Keukendeur
+! Bloemetjesgordijn
+\ No newline at end of file
+--- 1,6 ----
+  Huis
+! Tuintje
+  Keukendeur
+! Raamkozijn
+! Bloemetjesgordijn
+! Stofzuiger
+\ No newline at end of file

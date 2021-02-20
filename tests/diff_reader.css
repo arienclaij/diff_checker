@@ -1,0 +1,24 @@
+pre.diff {
+    overflow: auto;
+    border: 1px solid #000000;
+}
+
+pre.diff ins,
+pre.diff del {
+    display: block;
+    text-decoration: none;
+}
+
+pre.diff ins {
+    background-color: #88ff88;
+}
+
+pre.diff del {
+    background-color: #ff8888;
+}
+
+pre.diff address {
+    font-style: normal;
+    border-bottom: 1px solid #000000;
+    background-color: #eeeeee;
+} 
